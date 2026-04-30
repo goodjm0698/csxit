@@ -49,6 +49,13 @@ export interface Inquiry {
   aiDraft: string
 }
 
+export interface InquiryReply {
+  id: number
+  inquiryId: number
+  body: string
+  createdAt: string
+}
+
 export const inquiries: Inquiry[] = [
   {
     id: "1",
