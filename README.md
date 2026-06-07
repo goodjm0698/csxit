@@ -1,4 +1,4 @@
-# <img src = "https://imgur.com/cnP5JPE.png" width="250">
+# <div align="center"> <img src = "https://imgur.com/cnP5JPE.png" width="250">
 
 > AI로 반복 문의를 줄이고, 고객 상담을 새로운 매출 기회로 전환하는 이커머스 CS 자동화 플랫폼
 
